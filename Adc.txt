@@ -1,0 +1,13 @@
+
+
+	***** Adc component Info *****
+
+Size of .text   section in Adc component is = 2716 Bytes
+Size of .rodata section in Adc component is = 156 Bytes
+
+Size of .data   section in Adc component is = 1 Bytes
+Size of .bss    section in Adc component is = 66 Bytes
+
+
+-> Size of ROM in Adc component is = 2872 Bytes
+-> Size of RAM in Adc component is = 67 Bytes
